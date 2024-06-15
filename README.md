@@ -1,7 +1,7 @@
 Welcome, This is Rajesh Doradla ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-<p  align="center"><img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://i.redd.it/n8agw6z2smyb1.gif)" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="![Raj_coding](https://github.com/doradlarajesh/doradlarajesh/assets/57953464/00fac5c5-7aca-4d48-ab2d-05d6abe61284)" alt="Raj Coder GIF" width="500" height="400">
 
 Principal QA Engineer | 10+ Years Exp
 -------------------------------------
