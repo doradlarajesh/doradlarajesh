@@ -1,10 +1,9 @@
 Welcome, This is Rajesh Doradla ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
-
-<p  align="center"><img src="https://github.com/doradlarajesh/doradlarajesh/assets/57953464/00fac5c5-7aca-4d48-ab2d-05d6abe61284" alt="Raj Coder GIF" width="600" height="400">
-
 Principal QA Engineer | 10+ Years Exp
 -------------------------------------
+
+<p  align="center"><img src="https://github.com/doradlarajesh/doradlarajesh/assets/57953464/00fac5c5-7aca-4d48-ab2d-05d6abe61284" alt="Raj Coder GIF" >
 
 Web, Mobile, Desktop & API | Full Stack QA | Investment Banking | Retail & E-commerce | Capital Markets CFA Investment Foundations, ISTQB CTFL certified - (Automation + Functional) Software Testing Professional with 10+ years of experience in Software Testing of Finance, Investment, E-commerce Web, Desktop and Mobile Applications with good knowledge in Retail Domain, Investment / Financial Domain and good understanding of Test Planning, Test Management, Execution, Defect Tracking and Status Reporting.
 
